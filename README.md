@@ -14,7 +14,7 @@ Stadt entfernen: Die App ermöglicht das Entfernen einer Stadt aus der Liste der
 2. WeatherCard-Komponente
 UI-Elemente
 Stadtname: Zeigt den Namen der Stadt an.
-Wetterbeschreibung: Zeigt die Wetterbeschreibung an (z.B. "heiter").
+Wetterbeschreibung: Zeigt die Wetterbeschreibung an (z.B. "heiter"). 
 Temperatur: Zeigt die aktuelle Temperatur an.
 Feuchtigkeit: Zeigt die aktuelle Luftfeuchtigkeit an.
 Entfernungsbutton: Ermöglicht das Entfernen der Karte aus der Liste.
