@@ -1,0 +1,56 @@
+.weather-app {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.weather-app input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 70%;
+}
+
+.weather-app button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.weather-app button:hover {
+  background-color: #0056b3;
+}
+
+.weather-card {
+  background-color: #e0e0e0;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.weather-card button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 0 10px 0 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.weather-card button:hover {
+  background-color: darkred;
+}
+
+
